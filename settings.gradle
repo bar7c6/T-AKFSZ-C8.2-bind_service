@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "T-AKFSZ-C8.2-bind_service"
